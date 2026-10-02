@@ -7,7 +7,7 @@
     "label": "CSV Upload",
     "url": "/bahmni/admin/index.html#/csv",
     "icon": "fa-upload",
-    "order": 1,
+    "order": 11,
     "requiredPrivilege": "app:admin"
   },
   "csvExport": {
