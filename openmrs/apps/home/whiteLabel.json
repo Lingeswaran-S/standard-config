@@ -16,7 +16,7 @@
 		{
 			"enabled": true,
 			"name": "clinicalService",
-			"title": "Clinical Service",
+			"title": "Hospital Service",
 			"logo": "/bahmni/images/app.png",
 			"link": "/bahmni-v2/home"
 		},
